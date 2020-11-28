@@ -1,0 +1,16 @@
+D:\coding\cs\hellocs\hello\bin\Debug\net5.0\hello.exe
+D:\coding\cs\hellocs\hello\bin\Debug\net5.0\hello.deps.json
+D:\coding\cs\hellocs\hello\bin\Debug\net5.0\hello.runtimeconfig.json
+D:\coding\cs\hellocs\hello\bin\Debug\net5.0\hello.runtimeconfig.dev.json
+D:\coding\cs\hellocs\hello\bin\Debug\net5.0\hello.dll
+D:\coding\cs\hellocs\hello\bin\Debug\net5.0\ref\hello.dll
+D:\coding\cs\hellocs\hello\bin\Debug\net5.0\hello.pdb
+D:\coding\cs\hellocs\hello\obj\Debug\net5.0\hello.csprojAssemblyReference.cache
+D:\coding\cs\hellocs\hello\obj\Debug\net5.0\hello.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding\cs\hellocs\hello\obj\Debug\net5.0\hello.AssemblyInfoInputs.cache
+D:\coding\cs\hellocs\hello\obj\Debug\net5.0\hello.AssemblyInfo.cs
+D:\coding\cs\hellocs\hello\obj\Debug\net5.0\hello.csproj.CoreCompileInputs.cache
+D:\coding\cs\hellocs\hello\obj\Debug\net5.0\hello.dll
+D:\coding\cs\hellocs\hello\obj\Debug\net5.0\ref\hello.dll
+D:\coding\cs\hellocs\hello\obj\Debug\net5.0\hello.pdb
+D:\coding\cs\hellocs\hello\obj\Debug\net5.0\hello.genruntimeconfig.cache
